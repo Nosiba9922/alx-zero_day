@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+=======
+echo ALX School is so cool!
+>>>>>>> 8b14836761c3cba4631e4bd4754b96426fe6724c
